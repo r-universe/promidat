@@ -1,0 +1,22 @@
+[
+  {
+    "package": "loadeR",
+    "oncran": false
+  },
+  {
+    "package": "discoveR",
+    "oncran": false
+  },
+  {
+    "package": "predictoR",
+    "oncran": false
+  },
+  {
+    "package": "regressoR",
+    "oncran": false
+  },
+  {
+    "package": "RSDA",
+    "oncran": false
+  }
+]

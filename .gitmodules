@@ -1,5 +1,30 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/promidat/promidat.r-universe.dev
 	shallow = true
 	branch = HEAD
+[submodule "loadeR"]
+	path = loadeR
+	url = https://github.com/PROMiDAT/loadeR
+	shallow = true
+	registered = true
+[submodule "discoveR"]
+	path = discoveR
+	url = https://github.com/PROMiDAT/discoveR
+	shallow = true
+	registered = true
+[submodule "predictoR"]
+	path = predictoR
+	url = https://github.com/PROMiDAT/predictoR
+	shallow = true
+	registered = true
+[submodule "regressoR"]
+	path = regressoR
+	url = https://github.com/PROMiDAT/regressoR
+	shallow = true
+	registered = true
+[submodule "RSDA"]
+	path = RSDA
+	url = https://github.com/PROMiDAT/RSDA
+	shallow = true
+	registered = true
