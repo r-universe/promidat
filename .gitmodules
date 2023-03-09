@@ -28,3 +28,13 @@
 	url = https://github.com/PROMiDAT/RSDA
 	shallow = true
 	registered = true
+[submodule "forecasteR"]
+	path = forecasteR
+	url = https://github.com/PROMiDAT/forecasteR
+	shallow = true
+	registered = true
+[submodule "traineR"]
+	path = traineR
+	url = https://github.com/PROMiDAT/traineR
+	shallow = true
+	registered = true

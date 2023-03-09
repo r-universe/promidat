@@ -18,5 +18,13 @@
   {
     "package": "RSDA",
     "oncran": false
+  },
+  {
+    "package": "forecasteR",
+    "oncran": false
+  },
+  {
+    "package": "traineR",
+    "oncran": false
   }
 ]
