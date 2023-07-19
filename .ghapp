@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["calibracion_python", "deep_learning", "discoveR", "discoveRPro", "explorerR", "forecasteR", "loadeR", "ML106_Visualizacion_Python", "Paradigmas", "predictoR", "predictoRPro", "programacion_python", "promidat.r-universe.dev", "regressoRPro", "Sistema-Exploratorio", "Sistema-Notas", "Sistema-Predictivo", "traineR", "web_mining_python"]
+  "repositories": ["discoveR", "forecasteR", "loadeR", "predictoR", "promidat.r-universe.dev", "traineR"]
 }
