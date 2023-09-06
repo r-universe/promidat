@@ -2,24 +2,24 @@
 	path = .registry
 	url = https://github.com/promidat/promidat.r-universe.dev
 	branch = HEAD
-[submodule "loadeR"]
-	path = loadeR
-	url = https://github.com/PROMiDAT/loadeR
+[submodule "RSDA"]
+	path = RSDA
+	url = https://github.com/PROMiDAT/RSDA
 [submodule "discoveR"]
 	path = discoveR
 	url = https://github.com/PROMiDAT/discoveR
+[submodule "forecasteR"]
+	path = forecasteR
+	url = https://github.com/PROMiDAT/forecasteR
+[submodule "loadeR"]
+	path = loadeR
+	url = https://github.com/PROMiDAT/loadeR
 [submodule "predictoR"]
 	path = predictoR
 	url = https://github.com/PROMiDAT/predictoR
 [submodule "regressoR"]
 	path = regressoR
 	url = https://github.com/PROMiDAT/regressoR
-[submodule "RSDA"]
-	path = RSDA
-	url = https://github.com/PROMiDAT/RSDA
-[submodule "forecasteR"]
-	path = forecasteR
-	url = https://github.com/PROMiDAT/forecasteR
 [submodule "traineR"]
 	path = traineR
 	url = https://github.com/PROMiDAT/traineR
